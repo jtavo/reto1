@@ -1,0 +1,8 @@
+org\example\Reto1Application.class
+org\example\model\Persona.class
+org\example\controller\EstudianteController.class
+org\example\repository\RepositorioEstudiante.class
+org\example\service\ServiceEstudiante.class
+org\example\model\Profesor.class
+org\example\model\Direccion.class
+org\example\model\Estudiante.class
